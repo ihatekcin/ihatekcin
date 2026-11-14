@@ -1,4 +1,4 @@
-Just your typical uni cs student pursing towards a career in network/cyber. Very familiar with Javascript (NextJS, Astro) and Python (Flask, Django) for web dev; Currently working on my homelab, discord bots, and more.
+Just your typical uni cs student pursing towards a career in network/cyber.
 
 I'm open to work, contact me on linkedin, discord, or email.
 
