@@ -1,1 +1,1 @@
-I'm a 22 y/o cs undergrad student. I build full-stack applications with a focus on performance and optimization. I enjoy automation and theoretical computer science. My off-work activities include competitive gaming (Deadlock and CS2), video editing with Davinci Resolve, and working out.
+check out my website -> kcin.dev
